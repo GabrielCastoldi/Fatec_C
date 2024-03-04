@@ -1,0 +1,12 @@
+8. Explique o que é uma variável, como deve ser declarada e atribuído valores a mesma,
+bem como sua relação com a memória do computador.
+
+Resposta: uma variável é uma alocação na memória do computador. Ela tem um tipo que pode variar e
+esse tipo determina o tamanho do espaço a ser armazenado na memória.
+A declaração da variavel é feita especificando seu tipo seguido pelo nome dela.
+Para atribuir um valor a ela devemos usar o sinal de igual "=".
+A relação dela com a memória do computador é que quando ela é declarada,
+o sistema reserva um espaço na memória do computador. o Tamanho desse espaço, é determinado
+pelo tipo de variável. O endereço de memória é então associado ao nome dessa variável e quando
+alteramos esse valor, alteramos o valor armazenado na memória. Quando encerramos o programa,
+o espaço de memória reservado é liberado.
